@@ -1,0 +1,8 @@
+# IDE setting Path
+.idea/
+.vscode/
+
+test/
+venv/
+
+*.pyc
