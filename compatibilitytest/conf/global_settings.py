@@ -1,3 +1,4 @@
+# -*- encoding:utf-8 -*-
 # CPT Framework Foundation
 """
 Default settings. Override these with settings in the module pointed to
@@ -15,14 +16,3 @@ PLATFORMS = [
 
 # 时区
 TIME_ZONE = 'Asia/Shanghai'
-
-MOBILE_POOL = {
-    'MI6': {
-        'devices'
-    }
-}
-
-#
-MOBILE_DRIVER_CREATORS = {
-
-}
